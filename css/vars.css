@@ -1,0 +1,20 @@
+﻿:root {
+    --BarBackground: #FADFDF;
+    --BarText: #323232;
+    --ButtonBackground: #F74242;
+    --ButtonHoverBackground: #CA0000;
+    --ButtonHoverText: #2A2A2A;
+    --ButtonText: #323232;
+    --MainPageBackground: #FF6974;
+    --MainPlayerBackground: #FFFFFF;
+    --SeekbarBackground: #6E6E6E;
+    --SeekbarPlayback: #FF6974;
+    --SidebarBackground: #FFFFFF;
+    --SidebarHoverItemBackground: #EB7E7E;
+    --SidebarHoverItemText: #000000;
+    --SidebarHyperlink: #EF3846;
+    --SidebarSelectedItemBackground: #EB7E7E;
+    --SidebarSelectedItemText: #FFFFFF;
+    --SidebarText: #4D4D4D;
+    --SidebarVisitedItemText: #A1A1A1;
+}

@@ -1,0 +1,369 @@
+@font-face {
+    font-family: "IntegralsUp";
+    src: url("../fonts/STIXIntegralsUpD-Bold.otf");
+}
+
+@font-face {
+    font-family: "SizeOneSym";
+    src: url("../fonts/STIXSizeOneSym-Regular.otf");
+}
+@font-face {
+    font-family: "avnAnton";
+    src: url("../fonts/Anton.ttf");
+}@font-face {
+            font-family: 'avnTimesNewRoman';
+            src: url('../fonts/TIMES.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTimesNewRoman';
+            src: url('../fonts/TIMESI.TTF') format('truetype');
+            font-weight: 400;
+            font-style: italic;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTimesNewRoman';
+            src: url('../fonts/TIMESBD.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTimesNewRoman';
+            src: url('../fonts/TIMESBI.TTF') format('truetype');
+            font-weight: 700;
+            font-style: italic;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTimesNewRoman';
+            src: url('../fonts/TIMES.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTimesNewRoman';
+            src: url('../fonts/TIMESBD.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnHP0014hng';
+            src: url('../fonts/HP001_4_HANG_NORMAL.TTF') format('truetype');
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnHP0014hng';
+            src: url('../fonts/HP001_4_HANG_BOLD.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnHP0014hng';
+            src: url('../fonts/HP001_4_HANG_NORMAL.TTF') format('truetype');
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnHP0014hng';
+            src: url('../fonts/HP001_4_HANG_BOLD.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnVNIAvo';
+            src: url('../fonts/VAVON.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnVNIAvo';
+            src: url('../fonts/VAVOI.TTF') format('truetype');
+            font-weight: 400;
+            font-style: italic;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnVNIAvo';
+            src: url('../fonts/VAVOB.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnVNIAvo';
+            src: url('../fonts/VAVOBI.TTF') format('truetype');
+            font-weight: 700;
+            font-style: italic;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnVNIAvo';
+            src: url('../fonts/VAVON.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnVNIAvo';
+            src: url('../fonts/VAVOB.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIAL.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIALN.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIALI.TTF') format('truetype');
+            font-weight: 400;
+            font-style: italic;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIALNI.TTF') format('truetype');
+            font-weight: 400;
+            font-style: italic;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIALBD.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIALNB.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIALBI.TTF') format('truetype');
+            font-weight: 700;
+            font-style: italic;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIALNBI.TTF') format('truetype');
+            font-weight: 700;
+            font-style: italic;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIBLK.TTF') format('truetype');
+            font-weight: 900;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIAL.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIALN.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIALBD.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIALNB.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnArial';
+            src: url('../fonts/ARIBLK.TTF') format('truetype');
+            font-weight: 900;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCM_____.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCCM____.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCMI____.TTF') format('truetype');
+            font-weight: 400;
+            font-style: italic;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCB_____.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCCB____.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCBI____.TTF') format('truetype');
+            font-weight: 700;
+            font-style: italic;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCCEB.TTF') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCM_____.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCCM____.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCB_____.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCCB____.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnTwCenMT';
+            src: url('../fonts/TCCEB.TTF') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-stretch: condensed;
+        }
+@font-face {
+            font-family: 'avnCalibri';
+            src: url('../fonts/CALIBRIL.TTF') format('truetype');
+            font-weight: 300;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnCalibri';
+            src: url('../fonts/CALIBRILI.TTF') format('truetype');
+            font-weight: 300;
+            font-style: italic;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnCalibri';
+            src: url('../fonts/CALIBRI.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnCalibri';
+            src: url('../fonts/CALIBRII.TTF') format('truetype');
+            font-weight: 400;
+            font-style: italic;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnCalibri';
+            src: url('../fonts/CALIBRIB.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnCalibri';
+            src: url('../fonts/CALIBRIZ.TTF') format('truetype');
+            font-weight: 700;
+            font-style: italic;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnCalibri';
+            src: url('../fonts/CALIBRIL.TTF') format('truetype');
+            font-weight: 300;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnCalibri';
+            src: url('../fonts/CALIBRI.TTF') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-stretch: normal;
+        }
+@font-face {
+            font-family: 'avnCalibri';
+            src: url('../fonts/CALIBRIB.TTF') format('truetype');
+            font-weight: 700;
+            font-style: normal;
+            font-stretch: normal;
+        }
